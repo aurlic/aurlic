@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aurlic/aurlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🗿 Hey there !
 
-Here are some ideas to get you started:
+I'm currently studying at 42 Paris, and looking for an intership in software development !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects:
+<table align="center">
+<tr><td><b>School Projects:</b></td></tr>
+<tr><td>asd</td></tr>
+<tr><td>asd</td></tr>
+<tr><td><b>Open Source Contributions:</b></td></tr>
+<tr><td>qwe</td></tr>
+<tr><td>qwe</td></tr>
+<tr><td><b>Personal Projects:</b></td></tr>
+<tr><td>zxc</td></tr>
+<tr><td>zxc</td></tr>
+</table>
+
+
+## 💻 My tech stack:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,docker)](https://skillicons.dev)
+
+## 📊 Some stats:
+
+
+## 🔮 Find me here:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aurlic)
