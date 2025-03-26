@@ -3,9 +3,9 @@
 ## 🗿 Hey there !
 
 I'm currently studying at 42 Paris, and looking for an intership in software development !
-> If you are hiring let's meet at the end of this page
+> If you are hiring, let's [meet at the end of this page](#-find-me-here)
 
-## Projects:
+## 📦 Projects:
 You will find different type of projects on my profile:
 <div>
 
@@ -22,6 +22,8 @@ You will find different type of projects on my profile:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,docker)](https://skillicons.dev)
 
 ## 📊 Some stats:
+[![Arthur's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=aurlic&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Arthur's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=aurlic&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 ## 🔮 Find me here:
