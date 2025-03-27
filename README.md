@@ -19,7 +19,10 @@ You will find different type of projects on my profile:
 </div>
 
 ## 💻 My tech stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,docker,bash)](https://skillicons.dev)
+<br>
+Currently learning:<br>
+[![Currently learning](https://skillicons.dev/icons?i=js,ts,react,py)](https://skillicons.dev)
 
 ## 📊 Some stats:
 [![Arthur's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=aurlic&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
