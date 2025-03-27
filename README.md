@@ -27,8 +27,7 @@ Currently learning:<br>
 ## 📊 Some stats:
 [![Arthur's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=aurlic&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Arthur's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=aurlic&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-<br>
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
 ## 🔮 Find me here:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aurlic)
